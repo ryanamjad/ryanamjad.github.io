@@ -1,0 +1,344 @@
+{
+  "sheet1": [
+    [
+      "English title",
+      "Value",
+      "Group",
+      "Coordinates",
+      "Label",
+      "Text",
+      "Text2",
+      "Text3"
+    ],
+    [
+      "Lawn Boys (acquired by Senske)",
+      1,
+      "2020",
+      "46.2112,-119.1372",
+      "Senske Services",
+      "Senske acquires Lawn Boys in WA",
+      "",
+      ""
+    ],
+    [
+      "Elk Creek Lawn and Tree Care (acquired by Senske)",
+      1,
+      "2020",
+      "39.7555,-105.2211",
+      "Senske Services",
+      "Senske acquires Elk Creek in Golden, CO",
+      "",
+      ""
+    ],
+    [
+      "ExperiGreen (Denver acquisition)",
+      1,
+      "2020",
+      "39.7392,-104.9903",
+      "Senske Services",
+      "Senske acquires ExperiGreen's Denver operation",
+      "",
+      ""
+    ],
+    [
+      "Lawn Love (acquired by LawnStarter)",
+      1,
+      "2021",
+      "32.7157,-117.1611",
+      "No PE Involved",
+      "LawnStarter acquires Lawn Love",
+      "",
+      ""
+    ],
+    [
+      "Fit Turf (acquired by Senske)",
+      1,
+      "2021",
+      "39.7392,-104.9903",
+      "Senske Services",
+      "Senske acquires Fit Turf in Denver",
+      "",
+      ""
+    ],
+    [
+      "Yard Master Services",
+      1,
+      "2022",
+      "43.4917,-112.0333",
+      "Senske Services",
+      "Senske acquires Yard Master Services in Idaho Falls, ID",
+      "",
+      ""
+    ],
+    [
+      "Growing Green Lawn and Tree",
+      1,
+      "2022",
+      "39.7392,-104.9903",
+      "Senske Services",
+      "Senske acquires Growing Green in Denver",
+      "",
+      ""
+    ],
+    [
+      "Green Mountain Lawn and Tree",
+      1,
+      "2022",
+      "39.8083,-104.9339",
+      "Senske Services",
+      "Senske acquires Green Mountain in Commerce City, CO",
+      "",
+      ""
+    ],
+    [
+      "DesertGreen",
+      1,
+      "2022",
+      "46.2112,-119.1372",
+      "Senske Services",
+      "Senske acquires DesertGreen in Kennewick, WA",
+      "",
+      ""
+    ],
+    [
+      "Scientific Spray Service",
+      1,
+      "2022",
+      "46.2112,-119.1372",
+      "Senske Services",
+      "Senske acquires Scientific Spray Service in Kennewick, WA",
+      "",
+      ""
+    ],
+    [
+      "Senske Services PE Investment",
+      1,
+      "2022",
+      "47.6588,-117.4260",
+      "GTCR",
+      "GTCR makes strategic investment in Senske Services",
+      "",
+      ""
+    ],
+    [
+      "Emerald Lawns",
+      1,
+      "2023",
+      "30.2672,-97.7431",
+      "Senske Services",
+      "Senske acquires Emerald Lawns in Texas",
+      "",
+      ""
+    ],
+    [
+      "Blades of Green",
+      1,
+      "2023",
+      "38.9365,-76.5550",
+      "Senske Services",
+      "Senske acquires Blades of Green in Edgewater, MD",
+      "",
+      ""
+    ],
+    [
+      "Liqui-Lawn",
+      1,
+      "2023",
+      "39.7392,-104.9903",
+      "Senske Services",
+      "Senske acquires Liqui-Lawn in Denver",
+      "",
+      ""
+    ],
+    [
+      "National Turf Service",
+      1,
+      "2023",
+      "38.7893,-77.1872",
+      "Senske Services",
+      "Senske acquires National Turf Service in Springfield, VA",
+      "",
+      ""
+    ],
+    [
+      "Ace of Blades",
+      1,
+      "2023",
+      "36.1867,-94.1288",
+      "Senske Services",
+      "Senske acquires Ace of Blades in Springdale, AR",
+      "",
+      ""
+    ],
+    [
+      "Grasshopper Lawns",
+      1,
+      "2023",
+      "41.2418,-75.8930",
+      "HCI Equity Partners",
+      "HCI invests in Grasshopper Lawns in Larksville, PA",
+      "",
+      ""
+    ],
+    [
+      "Custom Lawn Care",
+      1,
+      "2023",
+      "40.8612,-79.8945",
+      "HCI Equity Partners",
+      "HCI invests in Custom Lawn Care in Butler, PA",
+      "",
+      ""
+    ],
+    [
+      "Delaware Valley Turf",
+      1,
+      "2024",
+      "39.9844,-75.3557",
+      "HCI Equity Partners",
+      "HCI invests in Delaware Valley Turf in Broomall, PA",
+      "",
+      ""
+    ],
+    [
+      "Brookside Lawn Service",
+      1,
+      "2024",
+      "41.1384,-81.8638",
+      "HCI Equity Partners",
+      "HCI invests in Brookside Lawn Service in Medina, OH",
+      "",
+      ""
+    ],
+    [
+      "LawnRx",
+      1,
+      "2024",
+      "40.3212,-79.3792",
+      "LawnPRO (HCI)",
+      "LawnPRO acquires LawnRx in Latrobe, PA",
+      "",
+      ""
+    ],
+    [
+      "Fairway Lawn & Tree Service",
+      1,
+      "2024",
+      "41.7000,-70.2000",
+      "LawnPRO (HCI)",
+      "LawnPRO acquires Fairway Lawn & Tree in Cape Cod, MA",
+      "",
+      ""
+    ],
+    [
+      "Highest Quality Lawn & Pest",
+      1,
+      "2024",
+      "42.9956,-71.4548",
+      "LawnPRO (HCI)",
+      "LawnPRO acquires Highest Quality Lawn & Pest in Manchester, NH",
+      "",
+      ""
+    ],
+    [
+      "Meehan\u2019s Lawn Service",
+      1,
+      "2024",
+      "41.3984,-81.8087",
+      "LawnPRO (HCI)",
+      "LawnPRO acquires Meehan\u2019s in Brook Park, OH",
+      "",
+      ""
+    ],
+    [
+      "Pro Turf and Pro Pest Solutions",
+      1,
+      "2024",
+      "39.0997,-94.5786",
+      "Senske Services",
+      "Senske acquires Pro Turf and Pro Pest in Kansas City, MO",
+      "",
+      ""
+    ],
+    [
+      "Turf Doctor",
+      1,
+      "2024",
+      "44.3106,-69.7795",
+      "Senske Services",
+      "Senske acquires Turf Doctor in Augusta, ME",
+      "",
+      ""
+    ],
+    [
+      "U.S. Lawns",
+      1,
+      "2024",
+      "28.5383,-81.3792",
+      "EverSmith Brands (Riverside)",
+      "EverSmith Brands acquires U.S. Lawns",
+      "",
+      ""
+    ],
+    [
+      "Virginia Green",
+      1,
+      "2024",
+      "37.5407,-77.4360",
+      "Golden Gate Capital",
+      "Golden Gate invests in Virginia Green and expands to MD",
+      "",
+      ""
+    ],
+    [
+      "L.S.L. Lawn Service",
+      1,
+      "2024",
+      "39.0458,-76.6413",
+      "Virginia Green",
+      "Virginia Green acquires L.S.L. Lawn Service in MD",
+      "",
+      ""
+    ],
+    [
+      "Gro-Masters",
+      1,
+      "2025",
+      "32.0809,-81.0912",
+      "LawnPRO (HCI)",
+      "LawnPRO acquires Gro-Masters in Savannah, GA",
+      "",
+      ""
+    ],
+    [
+      "Green Image Lawn Care",
+      1,
+      "2025",
+      "39.9626,-76.7277",
+      "LawnPRO (HCI)",
+      "LawnPRO acquires Green Image in York/Lancaster, PA",
+      "",
+      ""
+    ],
+    [
+      "TurfPride Lawncare",
+      1,
+      "2025",
+      "33.7490,-84.3880",
+      "Senske Services",
+      "Senske acquires TurfPride Lawncare in Atlanta",
+      "",
+      ""
+    ],
+    [
+      "ExperiGreen",
+      1,
+      "2025",
+      "39.7392,-104.9903",
+      "Wind Point Partners",
+      "Wind Point acquires ExperiGreen Lawn Care",
+      "",
+      ""
+    ]
+  ]
+}
